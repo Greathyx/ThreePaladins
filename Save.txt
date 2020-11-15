@@ -1,0 +1,5 @@
+Gold=5870
+Level=5
+Fencer=4
+Archer=4
+Priest=3
